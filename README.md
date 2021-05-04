@@ -19,3 +19,4 @@ Optimizer function --> adam, which is widely used and computationally efficient
 Loss function --> categorical_crossentropy, usually used for multi class classification
 batch size --> 200 . Higher batch size would result in faster convergence.
 epochs --> Since model checkpoint is used, the algorithm converged at the end of 476 epochs.
+The dataset is split as 70% training data, 15% validation and 15% test data.
